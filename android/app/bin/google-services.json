@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748942240682",
+    "firebase_url": "https://pressuremonitor-535d0.firebaseio.com",
+    "project_id": "pressuremonitor-535d0",
+    "storage_bucket": "pressuremonitor-535d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748942240682:android:10bf6373f0658393",
+        "android_client_info": {
+          "package_name": "com.aguilabs.pressuremonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748942240682-gi7mca3tubpe88r2l2jq7j00lj6on6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWhGNhBJEMuixkVmOtjSdf6BU_ZEFgpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748942240682-gi7mca3tubpe88r2l2jq7j00lj6on6uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748942240682-m8ov29skcg8945hvtdmjk66epiikkbsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aguilabs.pressureMonitor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

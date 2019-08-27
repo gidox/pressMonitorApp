@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>748942240682-m8ov29skcg8945hvtdmjk66epiikkbsu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.748942240682-m8ov29skcg8945hvtdmjk66epiikkbsu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUprhKYNOnObYk4r8sUnq08ARhrCss348</string>
+	<key>GCM_SENDER_ID</key>
+	<string>748942240682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aguilabs.pressureMonitor</string>
+	<key>PROJECT_ID</key>
+	<string>pressuremonitor-535d0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pressuremonitor-535d0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:748942240682:ios:564c9028d806416f</string>
+	<key>DATABASE_URL</key>
+	<string>https://pressuremonitor-535d0.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-4138005863181000~9559988228</string>
+</dict>
+</plist>
