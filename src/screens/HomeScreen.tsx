@@ -19,7 +19,7 @@ import {
   AdMobRewarded,
   AdMobInterstitial,
   PublisherBanner,
-} from 'react-native-admob';
+} from 'react-native-google-admob';
 import i18n from '../translations/i18n';
 
 const locale = i18n.currentLocale().split('-')[0];
