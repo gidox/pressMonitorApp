@@ -44,7 +44,7 @@
     "reanimated-bottom-sheet": "^1.0.0-alpha.13",
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
