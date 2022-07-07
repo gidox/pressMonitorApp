@@ -19,7 +19,7 @@
     "i18n-js": "^3.3.0",
     "jetifier": "^1.6.4",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.4",
     "react": "16.8.6",
     "react-native": "0.60.4",
